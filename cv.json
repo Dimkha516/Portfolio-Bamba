@@ -1,0 +1,320 @@
+{
+  "basics": {
+    "name": "Cheikh Ahmadou Bamba Mbow",
+    "label": "Développeur Full-stack Junior",
+    "image": "/BambaODC.png",
+    "email": "dimkha516@gmail.com",
+    "phone": "+221781114327",
+    "url": "https://dimkha516.github.io/Mon-CV/ ",
+    "summary": "Développeur Full Stack Junior passionné par la création d'applications web et mobiles. Actuellement à la recherche d'opportunités pour développer davantage mes compétences dans un environnement professionnel.",
+    "theme": "dark",
+    "location": {
+      "address": "Rufisque",
+      "postalCode": "10001",
+      "city": "Senegal",
+      "countryCode": "SN",
+      "region": "Dakar"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Bamba",
+        "url": "https://www.linkedin.com/in/bamba-mbow-b41624223?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BdUpX3LQDSJugh4vU%2BtNdww%3D%3D"
+      },
+      {
+        "network": "GitHub",
+        "username": "Bamba",
+        "url": "https://github.com/Dimkha516"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "OFMS-SONATEL",
+      "position": "Développeur Fullstack",
+      "location_type": "On site",
+      "location": "Sénégal, Dakar",
+      "url": "https://www.linkedin.com/company/orange-money-s%C3%A9n%C3%A9gal/",
+      "startDate": "2024-12-01",
+      "endDate": null,
+      "summary": "Développement et maintenance d’applications web en utilisant MongoDB, Laravel, Node.js, Angular et React. Collaboration avec l’équipe pour implémenter de nouvelles fonctionnalités et corriger les bugs",
+      "highlights": [
+        "Renforcer la performance des applications web en optiisant les codes"
+      ],
+      "responsibilities": [
+        "Collaboration avec des développeurs seniors pour concevoir et implémenter des applications web en utilisant des frameworks JavaScript et PHP modernes.",
+        "Assistance dans le débogage et l’optimisation du code front-end afin d’assurer une expérience utilisateur fluide.",
+        "Participation aux revues de code et contribution à l’amélioration des standards de développement au sein de l’équipe."
+      ],
+      "achievements": [
+        "Développement et maintenance d’applications web en utilisant HTML/CSS, JavaScript, React, Angular, PHP, Laravel. Collaboration avec l’équipe pour implémenter de nouvelles fonctionnalités et corriger les bugs."
+      ],
+      "skills": [
+        "Mongo",
+        "Node",
+        "React",
+        "Angular",
+        "PHP",
+        "Laravel",
+        "Tailwind",
+        "GitHub"
+      ]
+    }
+  ],
+  
+  "education": [
+    {
+      "institution": "Sonatel Academy",
+      "url": "https://orangedigitalcenter.sn/ecole-du-code-sonatel-academy/",
+      "area": "Développement Web Mobile",
+      "studyType": "Certification",
+      "startDate": "2023-02-01",
+      "endDate": "2024-01-01",
+      "courses": [
+        "langage C",
+        "HTML/Css",
+        "Javascript",
+        "MongoDB",
+        "NodeJs",
+        "ReactJs",
+        "AngularJs",
+        "PHP",
+        "Laravel",
+        "Base de données",
+        "Gestion Projet"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Développeur FullStack",
+      "date": "2025-05-01",
+      "issuer": "ODC"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Figma",
+      "level": "Expert",
+      "keywords": [
+        "Design",
+        "UI"
+      ]
+    },
+    {
+      "name": "HTML",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "PHP",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Laravel",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "PHP Framework"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "JavaScript",
+        "Server"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Intermediate",
+      "keywords": [
+        "Databases",
+        "SQL",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code",
+        "Git"
+      ]
+    },
+    {
+      "name": "Angular",
+      "level": "Beginner",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "Flutter",
+      "level": "Beginner",
+      "keywords": [
+        "Mobil Development"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technology",
+      "keywords": [
+        "AI",
+        "Blockchain"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Smith",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Application Mobile de transfert d'argent",
+      "isActive": true,
+      "description": "Une application mobile de transfert d'argent s'inspirant des différentes app connues avec de nouvelles fonctionnalités",
+      "highlights": [
+        "Built with Flutter, Dart, Firebase",
+        "Inclue la fonctionnalité de tranferts programmés"
+      ],
+      "url": "https://github.com/Dimkha516/FlutterWave2",
+      "github": "https://github.com/Dimkha516/FlutterWave2"
+    },
+    {
+      "name": "Application de gestion D'école",
+      "isActive": true,
+      "description": "Une application web pour faciliter la gestion des écoles de formation",
+      "highlights": [
+        "Built with Html/CSS, Javascript, Laravel, Mysql",
+        "Application des principes SOLID pour une meilleure maintenabilité",
+        "Déployée avec Docker",
+        "Documentation Swagger"
+      ],
+      "url": "https://github.com/Dimkha516/Gestion-Promo-Laravel"
+    },
+    {
+      "name": "Réseau social des tailleurs",
+      "isActive": true,
+      "description": "Projet de groupe pour une application de réseau social destinés aux tailleurs et leur clients", 
+      "highlights": [
+        "Built with Node.js MongoDB, React",
+        "User authentication and CRUD operations",
+        "Poster-Commenter-Liker des postes",
+        "Suivre Vendeur(s)"
+      ],
+      "url": "https://github.com/Dimkha516/Projet-fullstack-Digit-Tail",
+      "github": "https://github.com/Dimkha516/Projet-fullstack-Digit-Tail"
+    },
+    {
+      "name": "Gestion Cargaisons",
+      "isActive": true,
+      "description": "Application web destinées aux entreprises d'envoi de colis",
+      "highlights": [
+        "Built with TypeScript, Node.js MongoDB, React",
+        "Suivi colis par le client et l'administrateur"
+      ],
+      "url": "https://github.com/Dimkha516/Cargaisons-App"
+    },
+    {
+      "name": "BIEN D'AUTRES REALISATIONS A DECOUVRIR SUR MON DEPÔT GITHUB...",
+      "isActive": true,
+      "description": "",
+      "highlights": [
+        "....."
+      ],
+      "url": "https://github.com/Dimkha516"
+    }
+  ]
+}
