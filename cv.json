@@ -2,7 +2,7 @@
   "basics": {
     "name": "Cheikh Ahmadou Bamba Mbow",
     "label": "Développeur Full-stack Junior",
-    "image": "/Portfolio-Bamba//BambaODC.png",
+    "image": "/Portfolio-Bamba//BambaODC2.png",
     "email": "dimkha516@gmail.com",
     "phone": "+221781114327",
     "url": "https://dimkha516.github.io/Mon-CV/ ",
@@ -87,9 +87,9 @@
   ],
   "certificates": [
     {
-      "name": "Développeur FullStack",
+      "name": "Développeur Web Mobile",
       "date": "2025-05-01",
-      "issuer": "ODC",
+      "issuer": "Sonatel Academy",
       "url": "https://orangedigitalcenter.sn/ecole-du-code-sonatel-academy/"
     }
   ],
